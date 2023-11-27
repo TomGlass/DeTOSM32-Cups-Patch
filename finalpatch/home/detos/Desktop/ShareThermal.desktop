@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=Share Thermal Printer
+Comment=Change CUPS to share printer
+Type=Application
+Exec=/usr/sbin/lpadmin -p Label -o printer-is-shared=true
+Icon=/opt/devonit/agent/controlpanel/pages/LinuxPrinters-config.svg
