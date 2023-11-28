@@ -43,9 +43,7 @@ Go to Control Panel and click Manage Packages
 
 Then select Add URL
 
-![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/013e13c5-260a-4022-ac1d-dd8e60562662)
-
-Select your USB stick and the squashfs file.
+Enter your URL to the squashfs file.
 
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/aa50abd8-e76a-48f1-9418-d965e551f3ef)
 
