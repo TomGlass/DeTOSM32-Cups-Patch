@@ -15,28 +15,48 @@ Release location https://github.com/TomGlass/DeTOSM32-Cups-Patch/releases/tag/Li
 
 ## Install via USB
 Go to Control Panel and click Manage Packages
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/0db980bc-2e0b-45ed-bafd-e8cf530331bb)
+
 Then select Add File
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/013e13c5-260a-4022-ac1d-dd8e60562662)
+
 Select your USB stick and the squashfs file.
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/29a065f9-8e7a-42bb-89b0-8aed4d4cc967)
+
 The new squashfs package will load on next boot, unplug the USB drive and now reboot the device.
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/710a9ebf-6f78-497a-8a68-9790f34f5ae9)
+
 On boot you will see an additional option on the Desktop, to Share Thermal Printer this will re-share the printer in the event it isn't shared on boot.
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/ef6dd861-9029-4648-a70d-13f463818528)
+
 And you can also see the package loaded in Package Manager
 
 ## Install via HTTP
 Go to Control Panel and click Manage Packages
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/0db980bc-2e0b-45ed-bafd-e8cf530331bb)
+
 Then select Add URL
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/013e13c5-260a-4022-ac1d-dd8e60562662)
+
 Select your USB stick and the squashfs file.
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/aa50abd8-e76a-48f1-9418-d965e551f3ef)
+
 The new squashfs package will load on next boot, now reboot the device.
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/710a9ebf-6f78-497a-8a68-9790f34f5ae9)
+
 On boot you will see an additional option on the Desktop, to Share Thermal Printer this will re-share the printer in the event it isn't shared on boot.
+
 ![image](https://github.com/TomGlass/DeTOSM32-Cups-Patch/assets/22176422/ef6dd861-9029-4648-a70d-13f463818528)
+
 And you can also see the package loaded in Package Manager
 
 
