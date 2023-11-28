@@ -62,11 +62,13 @@ And you can also see the package loaded in Package Manager
 ## Build squashfs from source 
 
 (SquashFS needs installing, Mac/Linux may be required)
+
 mksquashfs source Final.squashfs
 
 
 
 ### OS dump information
+```
 sh-4.3$ cat arch-release 
 2012.10.24
 sh-4.3$ 
@@ -86,3 +88,4 @@ BUILD_TYPE="'release'"
 sh-4.3$ 
 
 CUPS version (either 2.1.3 or 1.6.3)
+```
